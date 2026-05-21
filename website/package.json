@@ -41,10 +41,10 @@
     "html-webpack-plugin": "^3.2.0",
     "isomorphic-fetch": "^2.2.1",
     "jsxstyle": "^2.1.1",
-    "loader-utils": "1.1.0",
-    "markdown-it": "^7.0.0",
+    "loader-utils": "1.4.2",
+    "markdown-it": "12.3.2",
     "postcss-loader": "^2.1.5",
-    "prismjs": "^1.8.4",
+    "prismjs": "1.30.0",
     "prop-types": "^15.6.1",
     "query-string": "^5.1.0",
     "raw-loader": "^0.5.1",
@@ -64,6 +64,6 @@
     "url-loader": "^0.6.2",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1"
+    "webpack-dev-server": "5.2.4"
   }
 }
